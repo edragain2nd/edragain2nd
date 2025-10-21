@@ -1,4 +1,4 @@
-[![edragain's GitHub stats](https://stats-gold-eight.vercel.app/api?username=edragain2nd&include_all_commits&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![edragain's GitHub stats](https://github-readme-stats.vercel.app/api?username=edragain2nd&include_all_commits&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 ## Hi there 👋
 
 <!--
