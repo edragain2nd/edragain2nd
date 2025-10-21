@@ -1,4 +1,3 @@
-[![edragain's GitHub stats](https://stats-git-main-edragain2nds-projects.vercel.app/api?username=edragain2nd&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 ## Hi there 👋
 
 <!--
